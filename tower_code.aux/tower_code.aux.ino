@@ -1,5 +1,5 @@
 // Rotary Encoder Inputs
-int counter[] = {0,0};
+int counter[] = {-1,-1};
 int currentStateCLK[] = {0,0};
 int lastStateCLK[] = {0,0};
 unsigned long lastButtonPress[] = {0,0};
